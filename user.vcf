@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Law;xyz;;;
+FN: xyz  Law 
+ORG:GovTech;
+TITLE:Legal Services\n Delivering legal services differently
+EMAIL;type=INTERNET;type=WORK;type=pref:hello@xyz.law
+TEL;type=WORK;type=VOICE:4408081092068
+item1.ADR;type=WORK;type=pref:;;XYZ Law Solicitors\nBond St\nDewsbury;;;WF13 1AU;Great Britain
+item1.X-ABADR:gb
+item2.URL;type=pref:xyz.law
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
